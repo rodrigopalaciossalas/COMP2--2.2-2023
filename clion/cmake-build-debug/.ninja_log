@@ -1,0 +1,8 @@
+# ninja log v5
+0	453	7206743550646404	CMakeFiles/clion.dir/main.cpp.obj	6fa50c66e9c065ba
+2	129	7206747736839947	build.ninja	a2739a245a322386
+3	457	7206744816080100	CMakeFiles/clion.dir/CommissionEmployee.cpp.obj	1859aeb545772523
+457	559	7206744817059260	clion.exe	4756f25bbce2236d
+1	491	7206748053822380	CMakeFiles/clion2.dir/CommissionEmployee.cpp.obj	4561a827cc5f6b1e
+6	492	7206748053822380	CMakeFiles/clion2.dir/main2.cpp.obj	5744f41857f57840
+492	599	7206748054872160	clion2.exe	4fc914b6e5ab853f

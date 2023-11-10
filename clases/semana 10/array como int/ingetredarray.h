@@ -1,6 +1,6 @@
 //
 // Created by Usuario on 27/10/2023.
-//
+/**
 #ifndef INGETREDARRAY_H
 #define INGETREDARRAY_H
 

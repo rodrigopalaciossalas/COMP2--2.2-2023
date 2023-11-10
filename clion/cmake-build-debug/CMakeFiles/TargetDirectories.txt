@@ -1,0 +1,4 @@
+D:/COMP2--2.2-2023/COMP2--2.2-2023/clion/cmake-build-debug/CMakeFiles/clion.dir
+D:/COMP2--2.2-2023/COMP2--2.2-2023/clion/cmake-build-debug/CMakeFiles/clion2.dir
+D:/COMP2--2.2-2023/COMP2--2.2-2023/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/COMP2--2.2-2023/COMP2--2.2-2023/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
